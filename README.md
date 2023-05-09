@@ -83,4 +83,3 @@ If you would like to contribute to the project, feel free to submit a pull reque
 
 
 
-Regenerate response
